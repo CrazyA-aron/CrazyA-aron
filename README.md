@@ -1,4 +1,5 @@
 ### Hi There👋🏽
+
 <div align="center">
 	
 ## ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ!
@@ -9,7 +10,8 @@
 <a href="https://replit.com/@AaronMerchant"><img src="https://img.shields.io/badge/Repl-0E1525?style=for-the-badge&logo=Replit&logoColor=white"  alt="Stack Overflow" /></a>
 
 </div>
-  
+	
+
 ### &#x1f4c8; My GitHub Stats
 
 [![Aarons's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyA-aron&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
